@@ -10,7 +10,7 @@ This beatmaker application offers the following functionalities:
 - **Mute any of the beats:** Mute them together or separately.
 - **Change the tempo of the beats:** Adjust tempo using an intuitive slider.
 - **Click animated functionality of beat pads:** Change the beat timing for each type of beat.
-- **Play and stop beats: Control playback 
+- **Play and stop beats:** Control playback 
 
 ## Short demo:
 ![beatmaker](https://github.com/FabianJU/Beatmaker/assets/62031828/cc6ff05e-1578-4647-b467-498f059434cd)
