@@ -15,6 +15,8 @@ This beatmaker application offers the following functionalities:
 ## Short demo:
 ![beatmaker](https://github.com/FabianJU/Beatmaker/assets/62031828/cc6ff05e-1578-4647-b467-498f059434cd)
 
+Quick note: Demo doesn't share sound so if you want to hear the project in its full glory, donwload and try it out. Instructions to run/install are below!
+
 ## How to run/install:
 1. Clone this project
 2. Download [Visual Studio Codes](https://code.visualstudio.com/download) or any source-editor that can open a live server to run code
